@@ -8,6 +8,8 @@ categories: Self-Development
 
 I just ironed some shirts and trousers that are enough for me to wear for the next week. I also laid a coat of Kiwi polish on my black shoes and would brush them tomorrow morning. It’s a tip I learned before. Lay the polish coat on the leather shoes and let it lie there for one night before you brush it away. Try it. Trust me, you will be happy.
 
+<!--more-->
+
 I am fond of saying a true gentleman doesn’t feel properly dressed unless his shoes are freshly shined every morning. And I love the ritual so much that I can’t help but do it very often. That ritual makes me so happy.
 
 {% img center https://img.skitch.com/20121009-8rn9n5mxdnhqc7ic2f3w4sxmfr.jpg Polish shoes %}

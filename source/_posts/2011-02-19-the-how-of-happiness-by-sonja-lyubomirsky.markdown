@@ -8,6 +8,8 @@ categories: [Self-Development, Books]
 
 In this book Sonja Lyubomirsky provides a scientific approach to pursue happiness. Nice research. This book lifted me up when I fell down. Though there are things that lie outside of my Circle of Influence and it’s true that there is such a gene called “happiness gene”, it is so delightful to know that I can make shots to make me happier, even though I don’t inherit that gene from my parents.
 
+<!--more-->
+
 # My Notes
 
 > It’s never too late to be what you might have been. - George Elliot

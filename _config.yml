@@ -7,7 +7,7 @@ title: Anh Do
 subtitle: Programmer, student of life philosophy. I am curious about many things.
 author: Anh Do
 simple_search: http://google.com/search
-description:
+description: Anh Do's Blog on Life, Startup, Web Development, Programming.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -58,15 +58,15 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/twitter.ht
 # ----------------------- #
 
 # Github repositories
-github_user:
-github_repo_count: 0
+github_user: anhnk
+github_repo_count: 5
 github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
 twitter_user: anhnk
 twitter_tweet_count: 4
-twitter_show_replies: false
+twitter_show_replies: true
 twitter_follow_button: true
 twitter_show_follower_count: false
 twitter_tweet_button: true

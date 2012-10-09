@@ -8,6 +8,8 @@ categories: Self-Development
 
 This semester at RMIT, I take a very interesting course named “Negotiating Transnational Agreement”. Many things in our lives require good negotiation skills. I bet a lot of insights would be gained from this course.
 
+<!--more-->
+
 In the 2nd week, I had my first team exercise. We were members of a team of agents representing the Lyric Opera (LO), a local opera house. We would meet a team of agents for a singer named Sally Soprano (SS) who wanted to sing in LO’s next opera. Our team is supposed to negotiate with the other team on the package that we would pay SS in order to hire her for the primary role of the opera. A lot of information surrounding the case is provided. Choosing which info to use is the challenging part of the exercise, since a rule of thumb during a negotiation is “only give up information about us and our position that will enhance our bargaining power”.
 
 Therefore, we as one team prepared for the negotiation by identifying clearly what our Best Alternative To the Negotiated Agreement (BATNA), Reservation Price/Position, and Target/Aspiration Price. If we could not reach the agreement with SS’s agents, our BATNA would be get the secondary role singer to sing as primary role and we just have to pay maximum $28,000. Nevertheless, that would be our last choice and we would do our best to get Sally.

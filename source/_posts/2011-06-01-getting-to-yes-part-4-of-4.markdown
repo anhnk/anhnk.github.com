@@ -8,6 +8,8 @@ categories: Self-Development
 
 The easiest case ever! Here is the background of the case. My client, Ms. Taylor brought her custom-tailored clothes to Elegance Cleaners for dry cleaning. Unfortunately, their machine destroyed the clothes. Ms. Taylor asked for a compensation of $330 and the counter offer was $80.
 
+<!--more-->
+
 My counterpart and I represented as Ms. Taylor and Elegance Cleaners’ lawyers respectively. Two of us knew about each other before. In fact, we had good impression with each other before. I bet this fact helped a lot in the negotiation. Without asking so many questions, we totally understood our interests and reached a successful agreement shortly. Why was it a successful agreement? According to GTY, a negotiation is successful when:
 
     1) It leads to wise agreement.
