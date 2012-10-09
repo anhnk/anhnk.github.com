@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://anhnk.github.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: Anh Do
+subtitle: Programmer, student of life philosophy. I am curious about many things.
+author: Anh Do
 simple_search: http://google.com/search
 description:
 
@@ -89,8 +89,8 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
+disqus_short_name: anhdospersonalwebsite
+disqus_show_comment_count: true
 
 # Google Analytics
 google_analytics_tracking_id:
