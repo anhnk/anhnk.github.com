@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Anh Do]]></title>
-  <link href="http://anhnk.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Self-Development | Anh Do]]></title>
+  <link href="http://anhnk.github.com/blog/categories/self-development/atom.xml" rel="self"/>
   <link href="http://anhnk.github.com/"/>
   <updated>2012-10-09T21:43:31+07:00</updated>
   <id>http://anhnk.github.com/</id>
