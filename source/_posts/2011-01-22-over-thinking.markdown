@@ -10,7 +10,7 @@ I just ironed some shirts and trousers that are enough for me to wear for the ne
 
 I am fond of saying a true gentleman doesn’t feel properly dressed unless his shoes are freshly shined every morning. And I love the ritual so much that I can’t help but do it very often. That ritual makes me so happy.
 
-{% img https://img.skitch.com/20121009-8rn9n5mxdnhqc7ic2f3w4sxmfr.jpg Polish shoes %}
+{% img center https://img.skitch.com/20121009-8rn9n5mxdnhqc7ic2f3w4sxmfr.jpg Polish shoes %}
 
 So far, I learned quite a lot about what makes me happy and what doesn’t. Polishing my shoes makes me happy. Ironing my clothes myself, not having someone else do it except my girlfriend, makes me happy. Playing billiards with my close friends makes me happy. Winning certainly makes me happier than losing, but losing still does if it is worth it.
 
