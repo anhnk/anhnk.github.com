@@ -102,7 +102,7 @@
   </header>
 
 
-<div class="entry-content"><p>Here was the negotiation exercise for this week. Our team, as a group of doctors, must decide three among seven patients would receive the H2N2 vaccine. The other four would die. We prioritized those seven people based on the following criteria: what influence he/she had on the society, well-being of other people, and how importantly his/her life related to others. The difficulty we had this week was not from the other team but actually from our team itself. I was not sure if it was because we didn’t have the same objective criteria in our minds or we were too stubborn to change but one member of our team seemed not to agree with the others on the choices despite how hard I tried to persuade her. Later when I read more on GTY I learned a technique that I wished I had known before. It was called “Negotiation Jujitsu”. What it said was that if the other side announced a firm position, I might be tempted to criticize and reject it. If she criticized my proposal, I might be tempted to defend it and dig myself in. If she attacked me, I might be tempted to defend myself and counterattack. And by doing these things, I would end up playing the positional bargaining game. What “Negotiation Jujitsu” suggested was:</p>
+<div class="entry-content"><p>Here was the negotiation exercise for this week. Our team, as a group of doctors, must decide three among seven patients would receive the H2N2 vaccine. The other four would die. We prioritized those seven people based on the following criteria: what influence he/she had on the society, well-being of other people, and how importantly his/her life related to others. The difficulty we had this week was not from the other team but actually from our team itself. <!--more--> I was not sure if it was because we didn’t have the same objective criteria in our minds or we were too stubborn to change but one member of our team seemed not to agree with the others on the choices despite how hard I tried to persuade her. Later when I read more on GTY I learned a technique that I wished I had known before. It was called “Negotiation Jujitsu”. What it said was that if the other side announced a firm position, I might be tempted to criticize and reject it. If she criticized my proposal, I might be tempted to defend it and dig myself in. If she attacked me, I might be tempted to defend myself and counterattack. And by doing these things, I would end up playing the positional bargaining game. What “Negotiation Jujitsu” suggested was:</p>
 
 <pre><code>1) Don’t attack her position, look behind it
 
@@ -209,6 +209,35 @@
   </ul>
 </section>
 
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/anhnk">@anhnk</a> on GitHub
+  
+  <script type="text/javascript">
+    $.domReady(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'anhnk',
+            count: 5,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
 
 <section>
   <h1>Latest Tweets</h1>
@@ -217,7 +246,7 @@
   </ul>
   <script type="text/javascript">
     $.domReady(function(){
-      getTwitterFeed("anhnk", 4, false);
+      getTwitterFeed("anhnk", 4, true);
     });
   </script>
   <script src="/javascripts/twitter.js" type="text/javascript"> </script>

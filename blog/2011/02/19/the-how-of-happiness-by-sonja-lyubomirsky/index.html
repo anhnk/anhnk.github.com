@@ -104,6 +104,9 @@
 
 <div class="entry-content"><p>In this book Sonja Lyubomirsky provides a scientific approach to pursue happiness. Nice research. This book lifted me up when I fell down. Though there are things that lie outside of my Circle of Influence and it’s true that there is such a gene called “happiness gene”, it is so delightful to know that I can make shots to make me happier, even though I don’t inherit that gene from my parents.</p>
 
+<!--more-->
+
+
 <h1>My Notes</h1>
 
 <blockquote><p>It’s never too late to be what you might have been. - George Elliot</p></blockquote>
@@ -267,6 +270,35 @@
   </ul>
 </section>
 
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/anhnk">@anhnk</a> on GitHub
+  
+  <script type="text/javascript">
+    $.domReady(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'anhnk',
+            count: 5,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
 
 <section>
   <h1>Latest Tweets</h1>
@@ -275,7 +307,7 @@
   </ul>
   <script type="text/javascript">
     $.domReady(function(){
-      getTwitterFeed("anhnk", 4, false);
+      getTwitterFeed("anhnk", 4, true);
     });
   </script>
   <script src="/javascripts/twitter.js" type="text/javascript"> </script>
