@@ -6,7 +6,7 @@ comments: true
 categories: [Self-Development, Books]
 ---
 
-In this book Sonja Lyubomirsky provides a scientific approach to pursue happiness. Nice research. This book lifted me up when I fell down. Though there are things that lie outside of my Circle of Influence and it’s true that there is such a gene called “happiness gene”, it is so delightful to know that I can make shots to make me happier, even though I don’t inherit that gene from my parents.
+In *The How of Happiness*, with thorough research, Sonja Lyubomirsky provides a scientific approach to pursue happiness. This book lifted me up when I was down. Though there are things that lie outside of my Circle of Influence and it is true that there is such a gene called “happiness gene”, I am delighted to know that I can make shots to make me happier, even if I don’t inherit that gene from my parents.
 
 <!--more-->
 
@@ -18,7 +18,7 @@ In this book Sonja Lyubomirsky provides a scientific approach to pursue happines
 
 {% img center https://img.skitch.com/20121009-nkendgrm99pkd786xuri5itj1f.jpg What determines happiness %}
 
-Becoming lastingly happier demands making some permanent changes that require effort and commitment everyday of your life. Pursuing happiness takes work, but consider that this “happiness work” may be the most rewarding work you’ll ever do.
+Becoming lastingly happier demands making some permanent changes that require effort and commitment everyday of your life. Pursuing happiness takes work, but consider that this “happiness work” will be the most rewarding work you’ll ever do.
 
 Subjective Happiness Scale, Depression Scale, Personal-Activity Fit Diagnostic (refer the book)
 
