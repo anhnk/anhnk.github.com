@@ -6,13 +6,13 @@ comments: true
 categories: [Self-Development, Books]
 ---
 
-The first time I started writing daily was when my 4th year teacher suggested me to write a diary. I wrote an A4 page on the 1st day. I used a lot of space to describe the weather, the sky and the people on the street before I talked about what had happened during the day. Gradually, my diary page kept shrinking and shrinking until it was only a sixth of an A4. After all, the weather, the sky and the people were still the same. No need for repetition.
+The first time I started writing daily was when my 4th year teacher suggested me to write a diary. I wrote an A4 page on the 1st day. I used a lot of space to describe the weather, the sky and the people on the street before I talked about what had happened during the day. Gradually, my diary page kept shrinking and shrinking until it became only a sixth of an A4. After all, the weather, the sky and the people were still the same. No need for repetition.
 
 <!--more-->
 
-You might have guessed that I stopped writing my diary in no time. You are right. I did. But I loved keeping a diary. The idea of storing my own thoughts in *a box* and taking them out to look at someday really excites me. I was discouraged to write often because I didn't know how to do it well enough to make the words *sound* good later. I have always sucked at literature, history and writing in school.
+You might have guessed that I stopped writing my diary in no time. You are right. I did. But I loved keeping a diary. The idea of storing my own thoughts in *a box* and someday taking them out to look at really excites me. I was discouraged to write often because I didn't know how to do it well enough to make the words *sound* good later. I have always sucked at literature, history and writing in school.
 
-But at least I tried. It is impossible to remember how many times I started writing a diary/journal again. I feel much easier to write now. The words aren't necessarily poured out, but I don't have to force myself to sit down and open a text editor. Everyday I commute from home to work and vice versa, I sit on the train for total of 40 minutes. 40 minutes/day times 5 days/week, times 52 weeks/year, equals more than 173 hours. That amount of time will be well spent on writing, if not reading. 
+But at least I tried. It is impossible to remember how many times I started writing a diary/journal again. I feel much easier to write now. The words aren't necessarily poured out, but I don't have to force myself to sit down and open a text editor. Everyday I commute from home to work and vice versa, I sit on the train for total of 40 minutes. 40 minutes/day times 5 days/week, times 52 weeks/year, equals more than 173 hours per year. That amount of time will be well spent on writing, if not reading. 
 
 # How to Write
 
@@ -52,10 +52,10 @@ David
 
 {% endblockquote %}
 
-<a href="http://www.amazon.com/Writing-Works-Communicate-Effectively-Business/dp/0060956437/ref=sr_1_1?ie=UTF8&qid=1359337954&sr=8-1&keywords=writing+that+works" target="_blank">*Writing that Works*</a>, recommended by Ogilvy, is a book on writing in business context. Another book that teaches general writing is *The Elements of Style*, also known as *The Strunk and White*.
+<a href="http://www.amazon.com/Writing-Works-Communicate-Effectively-Business/dp/0060956437/ref=sr_1_1?ie=UTF8&qid=1359337954&sr=8-1&keywords=writing+that+works" target="_blank">*Writing that Works*</a>, recommended by Ogilvy, is a book on writing in business context. Another one that teaches general writing is *The Elements of Style*, also known as *The Strunk and White*.
 
-# The 10,000 Hours Rule
+# The 10,000 Hour Rule
 
-It takes approximately 10,000 hours for someone to be good at something. Bill Gates spent about 10,000 hours writing codes before he published his first commercial software. The Beatles also spent that long practicing and playing in a band in bars and nightclubs before the became popular. Bruce Lee once said he feared not the man who had practiced 10,000 kicks once, but the man who had practiced one kick 10,000 times.
+It takes approximately 10,000 hours for someone to be good at something. Bill Gates spent about 10,000 hours writing codes before he published his first commercial software. The Beatles also spent that long practicing and playing in a band in bars and nightclubs before they became popular. Bruce Lee once said he feared not the man who had practiced 10,000 kicks once, but the man who had practiced one kick 10,000 times.
 
 Conservatively speaking, if 3 hours is spent on writing everyday, it will take more than 9 years to achieve 10,000 hours. The best time to start writing is NOW.
