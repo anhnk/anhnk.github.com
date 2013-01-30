@@ -8,6 +8,8 @@ categories: [Self-Development, Books]
 
 The first time I started writing daily was when my 4th year teacher suggested me to write a diary. I wrote an A4 page on the 1st day. I used a lot of space to describe the weather, the sky and the people on the street before I talked about what had happened during the day. Gradually, my diary page kept shrinking and shrinking until it became only a sixth of an A4. After all, the weather, the sky and the people were still the same. No need for repetition.
 
+{% img center /images/david-ogilvy.jpeg 'The original Mad Man - David Ogilvy' 'David Ogilvy' %}
+
 <!--more-->
 
 You might have guessed that I stopped writing my diary in no time. You are right. I did. But I loved keeping a diary. The idea of storing my own thoughts in *a box* and someday taking them out to look at really excites me. I was discouraged to write often because I didn't know how to do it well enough to make the words *sound* good later. I have always sucked at literature, history and writing in school.
@@ -15,8 +17,6 @@ You might have guessed that I stopped writing my diary in no time. You are right
 But at least I tried. It is impossible to remember how many times I started writing a diary/journal again. I feel much easier to write now. The words aren't necessarily poured out, but I don't have to force myself to sit down and open a text editor. Everyday I commute from home to work and vice versa, I sit on the train for total of 40 minutes. 40 minutes/day times 5 days/week, times 52 weeks/year, equals more than 173 hours per year. That amount of time will be well spent on writing, if not reading. 
 
 # How to Write
-
-{% img center /images/david-ogilvy.jpeg 'The original Mad Man - David Ogilvy' 'David Ogilvy' %}
 
 On 7 September 1982, David Ogilvy - iconic businessman and original "Mad Man" - sent to all agency employees the following internal memo, titled "How to Write":
 

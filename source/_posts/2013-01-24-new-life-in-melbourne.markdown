@@ -8,6 +8,8 @@ categories: Life
 
 It has been almost 2 months since I came to Melbourne. I had never been outside Vietnam before, and my 1st overseas trip was to a place 6705.69 km away from my home. That is a long distance. Many people probably never travel that far in their whole lives.
 
+{% img center /images/flinders_station.jpg 'Flinders Street Station' 'Flinders Street Station' %}
+
 <!--more-->
  
 Obviously, culture is an abstract concept. That element of life can be hardly captured. You may hear a lot from stories, read Travel magazines, or watch Travel channels on cable TV; but you will never know what it really is until you experience at first hand. One word. Amazing. I wish I had had a chance to travel abroad when I was younger.
