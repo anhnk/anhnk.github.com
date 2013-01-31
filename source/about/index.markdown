@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "about me"
-footer: true
+title: "About me"
+footer: false
 ---
 
 I am a startup enthusiast, programmer, pianist, guitarist, avid reader, and student of life.
