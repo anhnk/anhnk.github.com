@@ -10,4 +10,4 @@ I live in Melbourne, Australia.
 
 I tweet from <a href="https://twitter.com/anhnk" target="_blank">@anhnk</a> and email from [anhdo.au at gmail dot com].
 
-This is my <a href="assets/files/resume_AnhDo.pdf" target="_blank">resume</a>.
+This is my <a href="https://dl.dropbox.com/u/9015866/Resume_AnhDo.pdf" target="_blank">resume</a>.
