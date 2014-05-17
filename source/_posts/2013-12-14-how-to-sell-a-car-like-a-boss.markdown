@@ -10,6 +10,8 @@ _This is the ad I wrote to sell my car. I got a lot of phone calls to check out 
 
 {% img center /images/station_wagon.jpg 'Station Wagon' 'Station Wagon' %}
 
+<!--more-->
+
 If you are looking to own a car to take a girl on a date... you have come to the wrong place.
 
 If however, you don't give a damn about your appearance because you are too cool to care, or you are on a low budget, may I present to you, one of the finest feats in Australian engineering: 1999 Holden Commodore VT Wagon. 
